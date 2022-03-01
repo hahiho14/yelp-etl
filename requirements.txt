@@ -1,0 +1,6 @@
+pyspark==3.2.1
+#pandas==1.4.1
+pyhive==0.6.4
+#sasl-0.3.1
+thrift==0.15.0
+thrift-sasl==0.4.3
